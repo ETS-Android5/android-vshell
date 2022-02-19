@@ -1,4 +1,8 @@
-# vShell
+# vShell (DISCONTINUED)
+
+This project is discontinued. -- https://github.com/xeffyr-real/where-is-xeffyr
+
+***
 
 [vShell] (Virtual Shell) — a successor of [Termux] project which provides an
 alternate implementation of the Linux terminal emulator for Android OS.
